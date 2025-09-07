@@ -12,7 +12,7 @@ assignees: ''
 
 ## 댓글 템플릿
 
-```
+
 <details>
 <summary><h3>코드</h3></summary>
 
@@ -33,4 +33,3 @@ assignees: ''
 -->
 
 </details>
-```
